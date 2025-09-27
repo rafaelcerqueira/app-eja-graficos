@@ -3,6 +3,7 @@
 ## Tecnologias:
 - Python
 - Plotly
+- Pandas
 - Streamlit
 
 ## Sobre a aplicação:
