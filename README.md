@@ -35,7 +35,7 @@
 - A aplicação foi desenvolvida em Python e algumas bibliotecas e framework: Plotly, Pandas e Streamlit.
 - Ainda há vários pontos de melhoria nas boas práticas e código limpo.
 - A aplicação foi feita em curto prazo de tempo para suprir uma necessidade urgente: consulta acessível e mais simples aos dados de matrículas da EJA.
-- O projeto foi feito no período de estágio para contribuir em várias pesquisas acadêmicas de unviversidades da Bahia, principalmente a Universidade Federal da Bahia, coordenada pela Profª. Drª. [Gilvanice Musial](https://faced.ufba.br/departamento-de-educacao-i/gilvanice-barbosa-da-silva-musial).
+- O projeto foi feito no período de estágio para contribuir em várias pesquisas acadêmicas de universidades da Bahia, principalmente a Universidade Federal da Bahia, coordenada pela Profª. Drª. [Gilvanice Musial](https://faced.ufba.br/departamento-de-educacao-i/gilvanice-barbosa-da-silva-musial).
 
 
 
